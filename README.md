@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center"><a href="https://csoriano2832.github.io/resume/">[Resume]</a></h3>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csoriano2832&label=Profile%20views&color=0e75b6&style=flat" alt="csoriano2832" /> </p>
 
